@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="/assets/javascript.svg" width="140" height="140" />
+  
+</p>
+<p align="center">⭐⭐⭐⭐⭐</p>
+
 # Understanding JavaScript
 > Code sources and commented description
 
@@ -12,3 +18,4 @@ All examples are organized in  order of better understanding, so starting from t
 ## Useful links
 
 - [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
+- [Airbnb JavaScript Style Guide () {](https://github.com/airbnb/javascript)
